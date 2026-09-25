@@ -1,0 +1,6 @@
+{
+  "name": "3D Noob Sandbox - Classic Roblox Edition",
+  "description": "A 3D physics sandbox inspired by classic Roblox and Astra Noob Sandbox, featuring retro skybox, R6 avatars, disassembly ragdolls, crates, bombs, and gravity physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
